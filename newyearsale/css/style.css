@@ -18,7 +18,7 @@ header .container{background: url(../images/header-bg.jpg)center bottom  no-repe
 .head_text__description {font-size: 16px;color: #fff;font-family: 'Gotham Narrow Book';margin-top: 2px;}
 /*title*/ 
 .title {margin-top: 30px;font-size: 111.25px; font-family: 'Caviar Dreams';font-weight: bold;color: #fff;text-align: center;position: relative;margin-top: 51px;}
-.title span {font-size: 114.45px;font-weight: normal;display: block;margin-top: -24px;}
+.title span {font-size: 114.45px;font-weight: bold;display: block;margin-top: -24px;}
 /*percent*/
 .percent {width: 143px;height: 143px;background: #000;border-radius: 50%;position: absolute;top: 252px;right: -46px;box-shadow:  5px 15px 1px #1a1e21;}
 .percent .num {font-size: 44.23px;font-weight: bold;transform: rotate(15deg);padding-top: 45px;display: block;color: #f0123e;margin-right: -20px;font-family: 'Caviar Dreams';}
