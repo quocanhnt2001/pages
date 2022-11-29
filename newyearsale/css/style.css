@@ -41,19 +41,19 @@ header .container{background: url(../images/header-bg.jpg)center bottom  no-repe
 /*First screen*/
 .first_screen .container {background: #fff;padding-bottom: 56px;}
 .second_title {font-size: 50.67px;font-family: 'Gotham Narrow';font-weight: 500;color: #000;margin-top: 50px;}
-.second_title__description {font-size: 18.67px;color: #969696;padding: 0 20px;margin-top: 30px;}
+.second_title__description {font-size: 20.5px;color: #969696;padding: 0 127px;margin-top: 20px;}
 /*product_card*/
 .product_card {max-width: 288px;margin:44px auto 0;text-align: center;position: relative;}
-.image_box {background: #f6f8f7;display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: -o-flex;display: flex;align-items:center;justify-content: center; }
+.image_box {background: #ffffff;display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: -o-flex;display: flex;align-items:center;justify-content: center;border-left: 1px solid #dcdcdc;border-right: 1px solid #dcdcdc;border-bottom: 1px solid #dcdcdc;border-top: 1px solid #dcdcdc; }
 .triangle {position: absolute;width: 95px;height: 88px;top: 0;left: 0;}
 .triangle::before {content: '';position: absolute;border-right: 95px solid transparent;border-bottom: 88px solid transparent;border-top: 88px solid #f0123e;left: 0;top: 0;}
 .triangle .perc {font-size:  24px;font-family: 'Caviar Dreams';font-weight: bold;position: relative;text-align: left;margin-top: 12px;margin-left: 8px;color: #fff;}
 .triangle .off {font-family: 'Caviar Dreams';font-size: 14.67px;text-transform: uppercase;text-align: left;position: relative;margin-left: 8px;color: #fff;}
 .bottom_box {border-left: 1px solid #dcdcdc;border-right: 1px solid #dcdcdc;border-bottom: 1px solid #dcdcdc;}
-.price_title {font-family: 'Gotham Narrow Book';font-size: 18.67px;padding-top: 28px;color: #2b334c;}
+.price_title {font-family: 'Gotham Narrow Book';font-size: 18.67px;padding-top: 28px;color: #2b334c; }
 .prices_box {display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: -o-flex;display: flex;justify-content: center;align-content: center;margin-top: 7px;font-family: 'Gotham Narrow Book';}
 .old_price {color: #f0123e;font-size: 18.67px;text-decoration: line-through;}
-.price {color: #2b334c;font-size: 18.67px;margin-left: 5px;}
+.price {color: #2b334c;font-size: 18.67px;}
 .product_card__text {font-size: 16px;font-family: 'Roboto';font-weight: 300;color: #404040;padding: 0 35px;margin-top: 20px;}
 .product_card__button {max-width: 131px;height: 44px;line-height: 44px;border-radius: 4px;background: #f0123e;font-size: 16px;text-transform: uppercase;font-family: 'Gotham Narrow';font-weight: 500;color: #fff;display: block;margin:25px auto;transition: all .6s ease;}
 .product_card__button:hover {transform: scale(.9);color: #fff;}
